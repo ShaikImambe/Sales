@@ -1,0 +1,298 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    font-family: sans-serif;
+    padding-left: 90px;
+
+}
+.head{
+    /* display: flex;
+    align-content:center; */
+    word-spacing: 20px;
+    padding-top: 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+  }
+select{
+    border: none;
+}
+.icon img{
+    height: 20px;
+    width: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+   
+}
+.body{
+    background-image:url("./Male-Model-Double-Denim-Style.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    /* padding-bottom: 100px; */
+}
+.h{
+    padding-left: 90px;
+    margin-top: 80px;
+    padding-top: 100px;
+}
+.men{
+    font-size: 50px;
+}
+h2{
+    color: rgba(0, 0, 255, 0.849);
+    font-size: 40px;
+    padding-left: 110px;
+}
+h3{
+    padding-left: 110px;
+    font-size: 25px;
+    font-style: inherit;
+}
+.button{
+    padding-left: 200px;
+    word-spacing: 20px;
+}
+.icons{
+   display: flex;
+   align-items: center;
+   padding-left: 75px ;
+}
+.icon1 img{
+    height: 60px;
+    width: 40px;
+    padding-left: 90px;
+    display: flex;
+    align-items: center;
+}
+.para{
+    padding-left: 20px;
+
+}
+.icon2 img{
+     height: 40px;
+     width: 40px;
+     /* display: flex; */
+    /* align-items: center; */
+     padding-left: 45px;
+}
+.para1{
+     padding-left: 30px;
+
+}
+.icon3 img{
+    height: 48px;
+    width: 48px;
+    padding-left: 55px;
+}
+.para2{
+     padding-left: 35px;
+}
+.icon4 img{
+     height: 48px;
+    width: 48px;
+    padding-left: 65px;
+}
+.para3{
+     padding-left: 35px;
+}
+.paraa{
+    border: 2px solid white;
+    height: 550px;
+    width: 650px;
+    background-image: url('./sitting\ girl.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: end;
+    margin-left: 50px;
+    padding-right: 20px;
+}
+.paraa button{
+    background: none;
+}
+.images{
+    display: flex;
+    gap: 10px;
+}
+.paraa1{
+    border: 2px solid white;
+    height: 250px;
+    width: 300px;
+    background-image: url('https://assets.christiandior.com/is/image/diorprod/M0538ONGEM323_E01?$default_GHC$&crop=444,531,1404,1309&wid=1850&hei=2000&scale=0.875&bfc=on&qlt=85');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 30px;
+    margin-left: 30px;
+    text-align: end;
+    padding-top: 30px;
+    padding-right: 30px;
+}
+.paraa1 button{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+
+.paraa2{
+    padding-left: 20px;
+    background-image: url("https://m-cdn.phonearena.com/images/articles/404860-image/BK6A8723.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 280px;
+    width: 320px;
+    padding-right: 10px;
+    border: 2px solid white;
+    text-align: end;
+    color: white;
+}
+.paraa2 button{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 20px;
+}
+.photo{
+    display: flex;
+}
+.paraa3{
+    border: 2px solid white;
+    height: 250px;
+    width: 700px;
+    background-image: url('https://tse1.mm.bing.net/th?id=OIP.TSIOpd2AHhQVdV-Fwt6JxAHaE8&pid=Api&P=0&h=180');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 29px;
+    text-align: end;
+    padding: 10px;
+}
+.main{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+.three{
+    display: flex;
+    gap: 50px;
+    text-align: center;
+    padding-left: 600px;
+
+}
+.sub img{
+    height: 250px;
+    width: 230px;
+    /* display: flex; */
+    margin-left: 50px;
+}
+.matteru{
+    display: flex;
+    margin-left: 50px;
+    gap: 73px;
+}
+.sub1 img{
+    height: 250px;
+    width: 230px;
+    /* display: flex; */
+    margin-left: 50px;
+}
+.matters{
+    display: flex;
+    margin-left: 50px;
+    gap: 73px;
+
+}
+.body1{
+    display: flex;
+    gap: 40px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.h1{
+    background-image: url("./men\ with\ bag.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 700px;
+    margin-left: 40px;
+    text-align: end;
+    padding-right: 20px;
+}
+ .h1{
+    text-align:end; 
+
+}
+.h2{
+    background-image: url('https://i.pinimg.com/originals/f1/a6/a7/f1a6a7a3baca0c40064eefa1d8923c13.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 650px;
+    text-align: end;
+    padding-right: 20px;
+}
+
+.footer {
+    background-color: #111;
+    padding: 40px 0 15px 0;
+    color: white;
+    margin-top: 40px;
+    font-family: sans-serif;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.footer-col {
+    width: 220px;
+    margin-bottom: 20px;
+}
+
+.footer-col h3, .footer-col h4 {
+    color: var(--primary-color);
+    margin-bottom: 12px;
+}
+
+.footer-col ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-col ul li {
+    margin: 6px 0;
+}
+
+.footer-col ul li a {
+    color: #ccc;
+    text-decoration: none;
+}
+
+.footer-col ul li a:hover {
+    color: white;
+}
+
+.footer-bottom {
+    text-align: center;
+    padding-top: 10px;
+    border-top: 1px solid #333;
+    color: #bbb;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .footer-container {
+        flex-direction: column;
+        text-align: center;
+    }
+    .footer-col {
+        width: 100%;
+    }
+}
+
+
+ 
