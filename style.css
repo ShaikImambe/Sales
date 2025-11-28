@@ -7,8 +7,6 @@
 
 }
 .head{
-    /* display: flex;
-    align-content:center; */
     word-spacing: 20px;
     padding-top: 25px;
 }
@@ -31,7 +29,6 @@ select{
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
-    /* padding-bottom: 100px; */
 }
 .h{
     padding-left: 90px;
@@ -74,8 +71,6 @@ h3{
 .icon2 img{
      height: 40px;
      width: 40px;
-     /* display: flex; */
-    /* align-items: center; */
      padding-left: 45px;
 }
 .para1{
@@ -222,7 +217,6 @@ h3{
 }
  .h1{
     text-align:end; 
-
 }
 .h2{
     background-image: url('https://i.pinimg.com/originals/f1/a6/a7/f1a6a7a3baca0c40064eefa1d8923c13.jpg');
@@ -296,3 +290,4 @@ h3{
 
 
  
+
